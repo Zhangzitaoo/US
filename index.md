@@ -2,7 +2,11 @@
 
 No files have been uploaded yet. Please come back later
 
-### 我们us
+这里目前还没有上传任何文件，请过一阵再来咯
+
+### US 我们
+
+We are a software to commemorate class 14, grade 2016
 
 我们是一个用来纪念2016级14班的软件
 
