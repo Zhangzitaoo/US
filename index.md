@@ -1,12 +1,10 @@
 ## Here is Pepsi Sprite with your highest regards.
 
-You can use the [editor on GitHub](https://github.com/pepsispirite/US/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+No files have been uploaded yet. Please come back later
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我们us
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们是一个用来纪念2016级14班的软件
 
 ```markdown
 Syntax highlighted code block
