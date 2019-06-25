@@ -19,7 +19,7 @@ _Never give up_
 - It's all random
 - No meaning
 
-[official website](http://desirez.tk) and ![Image](src)
+[official website](http://desirez.tk) and ![Image](https://ws3.sinaimg.cn/large/005BYqpggy1g40s45nygtj308o08r3ys.jpg)
 ```
 
 ### download link
@@ -42,7 +42,8 @@ _Never give up_
 
 Gmail:justinbally997@gmail.com
 
-[website](http://desirez.tk)
+Web site message:[website](http://desirez.tk)
 
-QQ:1624262875
+Bilibili:[bilibili](http://space.bilibili.com/85798800?share_medium=android&share_source=copy_link&bbid=XY6EA1462AA740353E20DEE06EBA75C67230B&ts=1561473501740)
 
+Twtitter:[Twtitter](https://mobile.twitter.com/zzt000ccc)
