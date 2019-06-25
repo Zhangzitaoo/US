@@ -13,22 +13,18 @@ We are a software to commemorate class 14, grade 2016
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# importance 1
+**Always alive**
+## importance 2
+_Never give up_
+### importance 3
+ `Eager to beautiful `
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- It's all random
+- No meaning
 
 [official website](http://desirez.tk) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### download link 下载链接
 
@@ -36,4 +32,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Update log 更新日志
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Beta]6.96:
+
+1.Rewrite the Toast proposal
+
+2.Optimized about page
+
+3.Enhanced interaction design
+
+4.bugs fix
+
+### contact information 联系信息
+
+Gmail:justinbally997@gmail.com
+
+[website](http://desirez.tk)
+
+QQ:1624262875
+
