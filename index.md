@@ -2,13 +2,9 @@
 
 No files have been uploaded yet. Please come back later
 
-这里目前还没有上传任何文件，请过一阵再来咯
-
-### US 我们
+### US Software
 
 We are a software to commemorate class 14, grade 2016
-
-我们是一个用来纪念2016级14班的软件
 
 ```markdown
 Syntax highlighted code block
@@ -26,11 +22,11 @@ _Never give up_
 [official website](http://desirez.tk) and ![Image](src)
 ```
 
-### download link 下载链接
+### download link
 
 [download link](https://www.lanzous.com/i4pse4f)
 
-### Update log 更新日志
+### Update log 
 
 [Beta]6.96:
 
@@ -42,7 +38,7 @@ _Never give up_
 
 4.bugs fix
 
-### contact information 联系信息
+### contact information 
 
 Gmail:justinbally997@gmail.com
 
